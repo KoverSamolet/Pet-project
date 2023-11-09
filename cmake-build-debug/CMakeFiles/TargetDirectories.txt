@@ -1,0 +1,3 @@
+C:/Users/Chayka/Desktop/C++/pet_Project/cards_counting/cmake-build-debug/CMakeFiles/FinishCountingCards.dir
+C:/Users/Chayka/Desktop/C++/pet_Project/cards_counting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chayka/Desktop/C++/pet_Project/cards_counting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
